@@ -1,0 +1,32 @@
+p
+{
+    color: teal;
+}
+#intro
+{
+ color: white;   
+ font-size: 9px;   
+ font-family: sans-serif;
+}
+#A
+{
+    background-color: royalblue;
+    height: 30px;
+    width: 4000px;
+    border: none solid white;
+    border-radius: 4px;
+    padding: 20px;
+}
+#B{
+    background-color: peru;
+    height: 30px;
+    width: 4000px;
+    border: none solid white;
+    border-radius: 4px;
+    padding: 20px;
+}
+h3{
+    color: dodgerblue;
+    font-family: sans-serif;
+    font-weight: 400;
+}
